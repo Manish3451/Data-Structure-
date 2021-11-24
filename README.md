@@ -1,2 +1,2 @@
-# Data-Structure-
-Data Structure Problems and Solution
+# Data-Structure and Alogorithms 
+
